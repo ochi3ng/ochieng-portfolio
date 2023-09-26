@@ -6,7 +6,7 @@ const Portfolio = () => {
     const [projects] = useState([
         {
             id: 1, title: "Domestic web app",
-             description: "A web application that aims to connect users with services from domestic workers around them with premium subscriptions on a weekly, monthly, or yearly basis.Build using: React, TypeScript, Redux",
+             description: "A web application that aims to connect users with services from domestic workers around them with premium subscriptions on a weekly, monthly, or yearly basis.",
             Link:"https://photogram-e48d5.web.app" ,
             src:"https://photogram-e48d5.web.app/static/media/phonep.0c0ff44a.svg"
  },
@@ -33,8 +33,8 @@ const Portfolio = () => {
                     <div className="inerdiv" key={project.id}>
                         <h3 className="title">{project.title}</h3>
                         <img className="image" src={project.src} alt="" />
-                        <p>{project.description}</p>
-                        
+                        <p className="discription">{project.description}</p>
+
                         <a href={project.Link} target="_blank" rel="noopener noreferrer">
                             View Project
                         </a>
