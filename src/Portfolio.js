@@ -1,7 +1,6 @@
 
 import React, { useState } from "react";
 import "./portfolio.css";
-import Navbar from "./Navbar";
 
 const Portfolio = () => {
     const [projects] = useState([
@@ -24,7 +23,6 @@ const Portfolio = () => {
 
     return (
         <section className="portfolio">
-            <Navbar/>
             <h2>Ochieng Portfolio</h2>
             <ul>
                 {projects.map((project) => (

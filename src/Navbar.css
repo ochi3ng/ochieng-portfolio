@@ -6,7 +6,14 @@
   justify-content: space-around;
   padding: 1rem 0;
 }
-
+.navbardetails{
+    color: white;
+}
+.details{
+    display: flex;
+    justify-content: space-between;
+    width: 300px;
+}
 .navbar div {
   cursor: pointer; 
 }
