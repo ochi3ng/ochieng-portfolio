@@ -18,7 +18,7 @@ const Portfolio = () => {
         {
             id: 3, title: "Food Ordering Platform",
             description: "A web application that allow users to place and order food from vendors around them.",
-            Link: "https://linkedin-clon-yt.web.app/"
+            Link: " https://food-order-24384.web.app"
         }, 
     ]);
 

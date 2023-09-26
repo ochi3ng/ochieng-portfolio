@@ -21,17 +21,19 @@
 }
 
 .portfolio h3 {
-    font-size: 18px;
+    font-size: 3rem;
     margin: 0;
 }
 
 .portfolio p {
     margin-top: 5px;
+    font-size: 2rem;
 }
 
 .portfolio a {
     color: #007bff;
     text-decoration: none;
     display: inline-block;
+    font-size: 2rem;
     margin-top: 10px;
 }

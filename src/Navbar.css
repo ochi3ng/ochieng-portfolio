@@ -1,17 +1,16 @@
-/* Navbar.css */
+
 .navbar {
-  background-color: #333; /* Background color */
-  color: white; /* Text color */
+  background-color: #333; 
+  color: white; 
   display: flex;
   justify-content: space-around;
-  padding: 1rem 0; /* Add some padding for spacing */
+  padding: 1rem 0;
 }
 
 .navbar div {
-  cursor: pointer; /* Add a pointer cursor to indicate interactivity */
-  transition: color 0.3s; /* Smooth color transition on hover */
+  cursor: pointer; 
 }
 
 .navbar div:hover {
-  color: #007bff; /* Change text color on hover */
+  color: #007bff;
 }
