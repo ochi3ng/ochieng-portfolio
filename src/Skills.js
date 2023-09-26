@@ -1,20 +1,19 @@
 import React from 'react'
+import './Skills.css'
 
 function Skills() {
   return (
-    <div>
-      <ul>
-        <li>
-                  <div>React</div>
-                  <div>TypeScript</div>
-                  <div>Redux</div>
-                  <div>Redux saga</div>
-                  <div>Redux toolkit</div>
-                  <div>Rest API</div>
-                  <div>Git</div>
-                  <div> Webpack</div>
-        </li>
-      </ul>
+    <div className='skills'>
+    
+                  <li>React</li>
+                  <li>TypeScript</li>
+                  <li>Redux</li>
+                  <li>Redux saga</li>
+                  <li>Redux toolkit</li>
+                  <li>Rest API</li>
+                  <li>Git</li>
+                  <li> Webpack</li>
+       
     </div>
   )
 }

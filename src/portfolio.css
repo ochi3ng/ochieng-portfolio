@@ -1,6 +1,8 @@
 .portfolio {
-    background-color: #f4f4f4;
+    background-color:gray;
     padding: 20px;
+    width: 100vw;
+   
 }
 
 .portfolio h2 {
@@ -8,32 +10,22 @@
     margin-bottom: 10px;
 }
 
-.portfolio ul {
-    list-style-type: none;
-    padding: 0;
-}
-
-.portfolio li {
+.inerdiv {
     background-color: #fff;
     border: 1px solid #ddd;
     padding: 15px;
+    width: 300px;
     margin-bottom: 10px;
 }
+.outerdiv{
+    display: flex;
+    justify-content: space-between;
 
-.portfolio h3 {
-    font-size: 3rem;
-    margin: 0;
 }
-
-.portfolio p {
-    margin-top: 5px;
-    font-size: 2rem;
+.title{
+    font-size: x-large;
+    color: black;
 }
-
-.portfolio a {
-    color: #007bff;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 2rem;
-    margin-top: 10px;
+.image{
+    width: 20vw;
 }

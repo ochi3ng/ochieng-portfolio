@@ -1,0 +1,10 @@
+.skills{
+    font-size: 2rem;
+      max-width: 1000px;
+       background-size: cover;
+    height: 100vh;
+    color:white;
+    background-image: url('https://t3.ftcdn.net/jpg/03/81/06/74/240_F_381067456_kUEewVnqlUOgyNNGIPr5T1PellqvjzPK.jpg');
+     background-repeat: no-repeat;
+    background-attachment: fixed;
+}
