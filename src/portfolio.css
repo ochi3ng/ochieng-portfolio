@@ -1,0 +1,37 @@
+.portfolio {
+    background-color: #f4f4f4;
+    padding: 20px;
+}
+
+.portfolio h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.portfolio ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.portfolio li {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin-bottom: 10px;
+}
+
+.portfolio h3 {
+    font-size: 18px;
+    margin: 0;
+}
+
+.portfolio p {
+    margin-top: 5px;
+}
+
+.portfolio a {
+    color: #007bff;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 10px;
+}
