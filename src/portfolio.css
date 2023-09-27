@@ -1,7 +1,7 @@
 .portfolio {
     background-color:gray;
     padding: 20px;
-    width: 100vw;
+     height:500px;
    
 }
 
@@ -11,10 +11,11 @@
 }
 
 .inerdiv {
-    background-color: #fff;
-    border: 1px solid #ddd;
+    background-color:black;
+    border-radius: 50px;
     padding: 15px;
     width: 300px;
+    height:400px;
     margin-bottom: 10px;
 }
 .outerdiv{
@@ -28,7 +29,9 @@
 }
 .image{
     width: 20vw;
+    height: 20vh;
 }
 .discription{
-    color: black;
+    color:white;
+    font-size: large;
 }

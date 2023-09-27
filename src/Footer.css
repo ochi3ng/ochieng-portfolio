@@ -1,0 +1,16 @@
+.footerdetails{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 6rem;
+    height: 300px;
+}
+.massege{
+    width: 400px;
+}
+.more{
+    font-size: larger;
+    font-weight: bolder;
+    color: white;
+}

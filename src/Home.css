@@ -5,7 +5,8 @@
      background-repeat: no-repeat;
     background-attachment: fixed;
 }
-h2{
+.homedetails{
+    font-size:5rem;
     color:white
 }
 h3{
